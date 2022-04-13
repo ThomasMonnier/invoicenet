@@ -9,7 +9,8 @@ data/
 predictions/
 processed_data/
 invoices/
-
+train_data/*
+raw_data/*
 **/.vscode/
 *.swp
 **/*.egg-info/

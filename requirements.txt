@@ -12,3 +12,4 @@ datefinder
 pytesseract
 grpcio
 stqdm
+alive-progress
