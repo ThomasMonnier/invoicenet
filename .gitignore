@@ -1,0 +1,16 @@
+.idea
+*.pyc
+.DS_Store
+invoicenet/acp/data/
+invoicenet/parsing/data/
+*/__pycache__/*
+env/
+data/
+predictions/
+processed_data/
+invoices/
+
+**/.vscode/
+*.swp
+**/*.egg-info/
+venv-*/
