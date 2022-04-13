@@ -19,7 +19,7 @@ if 'prepared_data' not in st.session_state:
 if prepare_data:
     if st.session_state['prepared_data'] == False:
         with st_stdout("info"):
-            prepare('train_data_v0')
+            prepare('train_data')
         with st_stdout('success'):
             print('Data is ready for training')
             st.session_state['prepared_data'] = True
